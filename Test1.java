@@ -5,5 +5,6 @@ class Test
 	{
 		Integer i,fact;
 		System.out.println(""+i);
+		System.out.println("hello kriti ho raha hai");
 	}
 }
